@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/Dedit.dir/main.C.o CMakeFiles/Dedit.dir/src/editorConfig.cpp.o  -o Dedit 

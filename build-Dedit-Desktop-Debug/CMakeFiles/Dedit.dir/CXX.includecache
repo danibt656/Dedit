@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/d/workspace/Dedit/Dedit/include/editorConfig.h
+main.h
+/home/d/workspace/Dedit/Dedit/include/main.h
+
+/home/d/workspace/Dedit/Dedit/include/main.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+errno.h
+-
+unistd.h
+-
+string.h
+-
+termios.h
+-
+sys/ioctl.h
+-
+sys/types.h
+-
+time.h
+-
+stdarg.h
+-
+fcntl.h
+-
+
+/home/d/workspace/Dedit/Dedit/src/editorConfig.cpp
+../include/editorConfig.h
+/home/d/workspace/Dedit/Dedit/include/editorConfig.h
+

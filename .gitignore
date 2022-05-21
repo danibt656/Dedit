@@ -1,0 +1,8 @@
+.vscode/
+.clion/
+.bundle/
+
+build-Dedit-Desktop-Debug/Dedit
+build-Dedit-Desktop-Debug/.cmake/api/v1/reply/*
+build-Dedit-Desktop-Debug/CMakeFiles/Dedit.dir/main.c.o
+build-Dedit-Desktop-Debug/CMakeFiles/Dedit.dir/src/
